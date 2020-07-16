@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **namek**
 - 🌱 I’m currently learning  += **react qt**
-- 🤔 I’m looking for help with += **double Elephant**
+- 🤔 I’m looking for help with += **double elephant**
 
 <!--
 **DaiHangLin/DaiHangLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
